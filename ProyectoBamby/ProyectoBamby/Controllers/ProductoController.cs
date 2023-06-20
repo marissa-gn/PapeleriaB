@@ -19,7 +19,7 @@ namespace ProyectoBamby.Controllers
         [HttpGet("{id}")]
         public string Get(int id)
         {
-            return "value";
+            return "Ejemplo commit ControladorMarca";
         }
 
         // POST api/<ProductoController>
