@@ -19,7 +19,7 @@ namespace ProyectoBamby.Controllers
         [HttpGet("{id}")]
         public string Get(int id)
         {
-            return "Aqui se ve el total de ventas";
+            return "hola peluchin VentasController";
         }
 
         // POST api/<VentasController>
